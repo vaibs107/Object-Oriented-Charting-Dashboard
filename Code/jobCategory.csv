@@ -1,0 +1,200 @@
+company,year,race,gender,job_category,count
+23andMe,2016,Latino,male,Executive/Senior officials & Mgrs,0
+23andMe,2016,Latino,male,First/Mid officials & Mgrs,1
+23andMe,2016,Latino,male,Professionals,7
+23andMe,2016,Latino,male,Technicians,0
+23andMe,2016,Latino,male,Sales workers,0
+23andMe,2016,Latino,male,Administrative support,0
+23andMe,2016,Latino,male,Craft workers,0
+23andMe,2016,Latino,male,operatives,0
+23andMe,2016,Latino,male,laborers and helpers,0
+23andMe,2016,Latino,male,Service workers,0
+23andMe,2016,Latino,male,Totals,8
+23andMe,2016,Latino,male,Previous_totals,na
+23andMe,2016,Latino,female,Executive/Senior officials & Mgrs,0
+23andMe,2016,Latino,female,First/Mid officials & Mgrs,1
+23andMe,2016,Latino,female,Professionals,5
+23andMe,2016,Latino,female,Technicians,0
+23andMe,2016,Latino,female,Sales workers,0
+23andMe,2016,Latino,female,Administrative support,5
+23andMe,2016,Latino,female,Craft workers,0
+23andMe,2016,Latino,female,operatives,0
+23andMe,2016,Latino,female,laborers and helpers,0
+23andMe,2016,Latino,female,Service workers,0
+23andMe,2016,Latino,female,Totals,11
+23andMe,2016,Latino,female,Previous_totals,na
+23andMe,2016,White,male,Executive/Senior officials & Mgrs,9
+23andMe,2016,White,male,First/Mid officials & Mgrs,30
+23andMe,2016,White,male,Professionals,61
+23andMe,2016,White,male,Technicians,0
+23andMe,2016,White,male,Sales workers,0
+23andMe,2016,White,male,Administrative support,2
+23andMe,2016,White,male,Craft workers,0
+23andMe,2016,White,male,operatives,0
+23andMe,2016,White,male,laborers and helpers,0
+23andMe,2016,White,male,Service workers,0
+23andMe,2016,White,male,Totals,102
+23andMe,2016,White,male,Previous_totals,na
+23andMe,2016,Black_or_African_American,male,Executive/Senior officials & Mgrs,0
+23andMe,2016,Black_or_African_American,male,First/Mid officials & Mgrs,0
+23andMe,2016,Black_or_African_American,male,Professionals,2
+23andMe,2016,Black_or_African_American,male,Technicians,0
+23andMe,2016,Black_or_African_American,male,Sales workers,0
+23andMe,2016,Black_or_African_American,male,Administrative support,0
+23andMe,2016,Black_or_African_American,male,Craft workers,0
+23andMe,2016,Black_or_African_American,male,operatives,0
+23andMe,2016,Black_or_African_American,male,laborers and helpers,0
+23andMe,2016,Black_or_African_American,male,Service workers,0
+23andMe,2016,Black_or_African_American,male,Totals,2
+23andMe,2016,Black_or_African_American,male,Previous_totals,na
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Executive/Senior officials & Mgrs,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,First/Mid officials & Mgrs,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Professionals,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Technicians,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Sales workers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Administrative support,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Craft workers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,operatives,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,laborers and helpers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Service workers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Totals,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,male,Previous_totals,na
+23andMe,2016,Asian,male,Executive/Senior officials & Mgrs,0
+23andMe,2016,Asian,male,First/Mid officials & Mgrs,5
+23andMe,2016,Asian,male,Professionals,23
+23andMe,2016,Asian,male,Technicians,0
+23andMe,2016,Asian,male,Sales workers,0
+23andMe,2016,Asian,male,Administrative support,3
+23andMe,2016,Asian,male,Craft workers,0
+23andMe,2016,Asian,male,operatives,0
+23andMe,2016,Asian,male,laborers and helpers,0
+23andMe,2016,Asian,male,Service workers,0
+23andMe,2016,Asian,male,Totals,31
+23andMe,2016,Asian,male,Previous_totals,na
+23andMe,2016,American_Indian_Alaskan_Native,male,Executive/Senior officials & Mgrs,0
+23andMe,2016,American_Indian_Alaskan_Native,male,First/Mid officials & Mgrs,0
+23andMe,2016,American_Indian_Alaskan_Native,male,Professionals,1
+23andMe,2016,American_Indian_Alaskan_Native,male,Technicians,0
+23andMe,2016,American_Indian_Alaskan_Native,male,Sales workers,0
+23andMe,2016,American_Indian_Alaskan_Native,male,Administrative support,0
+23andMe,2016,American_Indian_Alaskan_Native,male,Craft workers,0
+23andMe,2016,American_Indian_Alaskan_Native,male,operatives,0
+23andMe,2016,American_Indian_Alaskan_Native,male,laborers and helpers,0
+23andMe,2016,American_Indian_Alaskan_Native,male,Service workers,0
+23andMe,2016,American_Indian_Alaskan_Native,male,Totals,1
+23andMe,2016,American_Indian_Alaskan_Native,male,Previous_totals,na
+23andMe,2016,Two_or_more_races,male,Executive/Senior officials & Mgrs,0
+23andMe,2016,Two_or_more_races,male,First/Mid officials & Mgrs,0
+23andMe,2016,Two_or_more_races,male,Professionals,4
+23andMe,2016,Two_or_more_races,male,Technicians,0
+23andMe,2016,Two_or_more_races,male,Sales workers,0
+23andMe,2016,Two_or_more_races,male,Administrative support,0
+23andMe,2016,Two_or_more_races,male,Craft workers,0
+23andMe,2016,Two_or_more_races,male,operatives,0
+23andMe,2016,Two_or_more_races,male,laborers and helpers,0
+23andMe,2016,Two_or_more_races,male,Service workers,0
+23andMe,2016,Two_or_more_races,male,Totals,4
+23andMe,2016,Two_or_more_races,male,Previous_totals,na
+23andMe,2016,White,female,Executive/Senior officials & Mgrs,7
+23andMe,2016,White,female,First/Mid officials & Mgrs,18
+23andMe,2016,White,female,Professionals,37
+23andMe,2016,White,female,Technicians,0
+23andMe,2016,White,female,Sales workers,0
+23andMe,2016,White,female,Administrative support,22
+23andMe,2016,White,female,Craft workers,0
+23andMe,2016,White,female,operatives,0
+23andMe,2016,White,female,laborers and helpers,0
+23andMe,2016,White,female,Service workers,0
+23andMe,2016,White,female,Totals,84
+23andMe,2016,White,female,Previous_totals,na
+23andMe,2016,Black_or_African_American,female,Executive/Senior officials & Mgrs,0
+23andMe,2016,Black_or_African_American,female,First/Mid officials & Mgrs,0
+23andMe,2016,Black_or_African_American,female,Professionals,2
+23andMe,2016,Black_or_African_American,female,Technicians,0
+23andMe,2016,Black_or_African_American,female,Sales workers,0
+23andMe,2016,Black_or_African_American,female,Administrative support,1
+23andMe,2016,Black_or_African_American,female,Craft workers,0
+23andMe,2016,Black_or_African_American,female,operatives,0
+23andMe,2016,Black_or_African_American,female,laborers and helpers,0
+23andMe,2016,Black_or_African_American,female,Service workers,0
+23andMe,2016,Black_or_African_American,female,Totals,3
+23andMe,2016,Black_or_African_American,female,Previous_totals,na
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Executive/Senior officials & Mgrs,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,First/Mid officials & Mgrs,1
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Professionals,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Technicians,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Sales workers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Administrative support,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Craft workers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,operatives,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,laborers and helpers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Service workers,0
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Totals,1
+23andMe,2016,Native_Hawaiian_or_Pacific_Islander,female,Previous_totals,na
+23andMe,2016,Asian,female,Executive/Senior officials & Mgrs,1
+23andMe,2016,Asian,female,First/Mid officials & Mgrs,6
+23andMe,2016,Asian,female,Professionals,25
+23andMe,2016,Asian,female,Technicians,0
+23andMe,2016,Asian,female,Sales workers,0
+23andMe,2016,Asian,female,Administrative support,7
+23andMe,2016,Asian,female,Craft workers,0
+23andMe,2016,Asian,female,operatives,0
+23andMe,2016,Asian,female,laborers and helpers,0
+23andMe,2016,Asian,female,Service workers,0
+23andMe,2016,Asian,female,Totals,39
+23andMe,2016,Asian,female,Previous_totals,na
+23andMe,2016,American_Indian_Alaskan_Native,female,Executive/Senior officials & Mgrs,0
+23andMe,2016,American_Indian_Alaskan_Native,female,First/Mid officials & Mgrs,0
+23andMe,2016,American_Indian_Alaskan_Native,female,Professionals,0
+23andMe,2016,American_Indian_Alaskan_Native,female,Technicians,0
+23andMe,2016,American_Indian_Alaskan_Native,female,Sales workers,0
+23andMe,2016,American_Indian_Alaskan_Native,female,Administrative support,1
+23andMe,2016,American_Indian_Alaskan_Native,female,Craft workers,0
+23andMe,2016,American_Indian_Alaskan_Native,female,operatives,0
+23andMe,2016,American_Indian_Alaskan_Native,female,laborers and helpers,0
+23andMe,2016,American_Indian_Alaskan_Native,female,Service workers,0
+23andMe,2016,American_Indian_Alaskan_Native,female,Totals,1
+23andMe,2016,American_Indian_Alaskan_Native,female,Previous_totals,na
+23andMe,2016,Two_or_more_races,female,Executive/Senior officials & Mgrs,0
+23andMe,2016,Two_or_more_races,female,First/Mid officials & Mgrs,3
+23andMe,2016,Two_or_more_races,female,Professionals,2
+23andMe,2016,Two_or_more_races,female,Technicians,0
+23andMe,2016,Two_or_more_races,female,Sales workers,0
+23andMe,2016,Two_or_more_races,female,Administrative support,5
+23andMe,2016,Two_or_more_races,female,Craft workers,0
+23andMe,2016,Two_or_more_races,female,operatives,0
+23andMe,2016,Two_or_more_races,female,laborers and helpers,0
+23andMe,2016,Two_or_more_races,female,Service workers,0
+23andMe,2016,Two_or_more_races,female,Totals,10
+23andMe,2016,Two_or_more_races,female,Previous_totals,na
+23andMe,2016,Overall_totals,,Executive/Senior officials & Mgrs,17
+23andMe,2016,Overall_totals,,First/Mid officials & Mgrs,65
+23andMe,2016,Overall_totals,,Professionals,169
+23andMe,2016,Overall_totals,,Technicians,0
+23andMe,2016,Overall_totals,,Sales workers,0
+23andMe,2016,Overall_totals,,Administrative support,46
+23andMe,2016,Overall_totals,,Craft workers,0
+23andMe,2016,Overall_totals,,operatives,0
+23andMe,2016,Overall_totals,,laborers and helpers,0
+23andMe,2016,Overall_totals,,Service workers,0
+23andMe,2016,Overall_totals,,Totals,297
+23andMe,2016,Overall_totals,,Previous_totals,na
+Adobe,2016,Latino,male,Executive/Senior officials & Mgrs,3
+Adobe,2016,Latino,male,First/Mid officials & Mgrs,51
+Adobe,2016,Latino,male,Professionals,75
+Adobe,2016,Latino,male,Technicians,0
+Adobe,2016,Latino,male,Sales workers,33
+Adobe,2016,Latino,male,Administrative support,8
+Adobe,2016,Latino,male,Craft workers,0
+Adobe,2016,Latino,male,operatives,0
+Adobe,2016,Latino,male,laborers and helpers,0
+Adobe,2016,Latino,male,Service workers,0
+Adobe,2016,Latino,male,Totals,170
+Adobe,2016,Latino,male,Previous_totals,141
+Adobe,2016,Latino,female,Executive/Senior officials & Mgrs,0
+Adobe,2016,Latino,female,First/Mid officials & Mgrs,50
+Adobe,2016,Latino,female,Professionals,60
+Adobe,2016,Latino,female,Technicians,0
+Adobe,2016,Latino,female,Sales workers,16
+Adobe,2016,Latino,female,Administrative support,38
+Adobe,2016,Latino,female,Craft workers,0

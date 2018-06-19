@@ -1,0 +1,104 @@
+<html>
+<head>
+<title>Demographics Dashboard</title>
+	<link rel="icon" href="images/demographics.jpg" type="image/jpg" />
+    <link rel="stylesheet" type="text/css" href="styles/Custom.css">
+	<script src="node_modules/dataframe-js/dist/dataframe.js"></script>
+	<script src="node_modules/chart.js/dist/Chart.js"></script>
+	<script src="scripts/Demographics.js"></script>
+	<script src="scripts/ModelUtility.js"></script>
+	<script src="scripts/ControllerUtility.js"></script>
+	<script src="scripts/constants/Constant.js"></script>
+	<link href="node_modules/fancygrid/client/fancy.min.css" rel="stylesheet">
+	<link href="http://cdn.fancygrid.com/fancy.min.css" rel="stylesheet">
+	<script src="http://cdn.fancygrid.com/fancy.min.js"></script>
+	<script>
+		Fancy.MODULESDIR="http://cdn.fancygrid.com/modules/";
+	</script>
+</head>
+<body>
+	<div class="heading" style="background-color:red;">
+	<table >
+		<tr>
+			<td><img src = 'images/demographics.jpg' alt = "DemographicsLogo" style="width:250px;height:120px;"/></td>
+			<td><p><pre> Demographics Dashboard </pre></p></td>
+		</tr>
+	</table>	
+	</div>
+	<br />
+	<div class="datasetName">
+	<p>Choose a Dataset</p>
+	</div>
+    <div>         
+        <form>
+          <select  id="datasets" class="dropdown">
+              <option value="diversityindex.csv" selected="selected">Diversity Index</option>
+              <option value="incomeByOccupation.csv" selected="selected">Income by Occupation and Gender</option>
+              <option value="jobCategory.csv" selected="selected">Job Category by Comapany and Race</option>
+              <option value="populationByZip.csv" selected="selected">Population by ZipCodes</option>
+              <option value="populationByZip.csv" selected="selected">Sexual Diversity</option>
+        </select>          
+        <input style="background-color:red;" type="button" name="Select" onclick="importData()" value="Submit"></input><br><br>
+        <div id="table" style=""></div>
+        </form>
+        <div id="showData"></div>
+		<div id="filter"></div>
+		<div id="filter-row"  hidden="true">
+			<br>
+			<div id="categorical-filter">
+				<label style="display:block;font-weight:bold">Please Select Filters To Exclude(Categorical)</label>
+				<div id="categorical-filter-checkbox" style="display:flex; flex-flow:row wrap;"></div>
+			</div>
+			<br>
+			<div id="numerical-condition">
+				<label style="display:block;font-weight:bold">Please Select The Filter Condition</label>
+				<input type="radio" name="numericalFilter" value="greaterThanEqualTo"> Greater Than Equal To</input><br />
+				<input type="radio" name="numericalFilter" value="lessThanEqualTo"> Less Than Equal To</input><br />
+				<input type="radio" name="numericalFilter" value="equalTo"> Equal To</input><br />
+			</div>
+			<br>
+			<div id="numerical-value">
+				<label style="display:block;font-weight:bold">Please Enter Numerical Value To Filter</label>
+				<input id= "numericalFilter" style="background-color: white; border: groove;color: black;padding: 1px 0px; text-align: center; text-decoration: none;"  type="number" name="numericalFilter" value="numericalFilter"></input>
+			</div>
+			<br>
+			<div id="plot-graph">
+			<form>
+				<label style="display:block;font-weight:bold">Please Select the Chart Type</label>
+				<input type="checkbox" id="pieChart" name="pieChart" value="Pie Chart"> Pie Chart</input>
+				<input type="checkbox" id="barChart" name="barChart" value="Bar Chart"> Bar Chart</input>
+				<input type="checkbox" id="lineChart" name="lineChart" value="Line Chart"> Line Chart</input>
+				<input type="checkbox" id="stackedChart" name="stackedChart" value="Stacked Chart"> Stacked Chart</input>
+				<input type="checkbox" id="pivotChart" name="pivotChart" value="Pivot Chart"> Pivot Chart</input><br /><br />
+				<input type="button" name="applyCharts" onclick="applyChart()" value="Draw Charts"></input><br>
+			</form>	
+			</div>
+			<br>
+			<div id="export_data">
+			<form>
+				<label style="display:block;font-weight:bold">Please Select the format to export the dataset</label>
+				<input type="radio" id="jsonFormat" name="exportFilter" value="jsonFormat"> Download in JSON format</input><br />
+				<input type="radio" id="csvFormat" name="exportFilter" value="csvFormat"> Download in CSV format</input><br /><br />
+				<input type="button" name="applyDownloads" onclick="exportDataset()" value="Download Dataset"></input><br>
+			</form>	
+			</div>
+		</div>
+    </div>
+	<div id="parentChart" hidden="true">
+		<div id="childChart" class="chart">
+			<canvas id="piechartcanvas"></canvas>
+			<canvas id="barchartcanvas"></canvas>
+			<canvas id="linechartcanvas"></canvas>
+			<br/>
+			<canvas id="stackedchartcanvas"></canvas>
+			<canvas id="pivotchartcanvas"></canvas>
+		</div>
+	</div>
+	<div class="seperator"></div>
+	<footer class="footerStyle">
+	<div style="background-color:red;" class="footer-bottom">
+		<p>2018 &copy; Demographics Dashboard</p>
+	</div>
+	</footer>
+</body>
+</html>
